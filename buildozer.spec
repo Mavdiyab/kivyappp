@@ -9,7 +9,7 @@ package.name = sampleapk
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.novfensec
 
-# (str) Source code where the main.py live
+# (str) Source code where the main.py livee
 source.dir = .
 
 # (list) Source files to include (let empty to include all the files)
